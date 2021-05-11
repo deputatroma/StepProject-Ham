@@ -1,3 +1,6 @@
+Roman Kovalchuk 
+https://deputatroma.github.io/StepProject-Ham/
+
 ## Задание
 
 Сверстать [макет](https://www.figma.com/file/Do0TLndoEjGwuF9Ri7UHol/The_Ham_Steo-Project?node-id=1%3A2). Подключить динамические элементы (см. ниже)
